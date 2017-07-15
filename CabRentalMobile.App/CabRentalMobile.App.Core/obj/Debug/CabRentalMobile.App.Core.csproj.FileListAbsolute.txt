@@ -1,0 +1,5 @@
+C:\Users\Kyamc\Mobile App\Xamarine-Mobile-App-CabRental\CabRentalMobile.App\CabRentalMobile.App.Core\bin\Debug\CabRentalMobile.App.Core.dll
+C:\Users\Kyamc\Mobile App\Xamarine-Mobile-App-CabRental\CabRentalMobile.App\CabRentalMobile.App.Core\bin\Debug\CabRentalMobile.App.Core.pdb
+C:\Users\Kyamc\Mobile App\Xamarine-Mobile-App-CabRental\CabRentalMobile.App\CabRentalMobile.App.Core\obj\Debug\CabRentalMobile.App.Core.csprojResolveAssemblyReference.cache
+C:\Users\Kyamc\Mobile App\Xamarine-Mobile-App-CabRental\CabRentalMobile.App\CabRentalMobile.App.Core\obj\Debug\CabRentalMobile.App.Core.dll
+C:\Users\Kyamc\Mobile App\Xamarine-Mobile-App-CabRental\CabRentalMobile.App\CabRentalMobile.App.Core\obj\Debug\CabRentalMobile.App.Core.pdb
